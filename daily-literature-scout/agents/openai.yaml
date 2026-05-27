@@ -1,0 +1,7 @@
+interface:
+  display_name: "Daily Literature Scout"
+  short_description: "Daily open-literature scout for Obsidian"
+  default_prompt: "Use $daily-literature-scout to generate today's 5-paper Obsidian literature recommendation report."
+
+policy:
+  allow_implicit_invocation: true

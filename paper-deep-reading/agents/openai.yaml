@@ -1,0 +1,7 @@
+interface:
+  display_name: "Paper Deep Reading"
+  short_description: "PDF deep-reading notes for Obsidian"
+  default_prompt: "Use $paper-deep-reading to create a structured Obsidian reading note for this PDF paper."
+
+policy:
+  allow_implicit_invocation: true
